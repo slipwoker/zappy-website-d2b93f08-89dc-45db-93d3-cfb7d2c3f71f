@@ -1,6 +1,4 @@
-# Nikita Sharma SEO Expert — Generative Engine Optimization Map
-
-> Nikita Sharma is an SEO expert based in India, specializing in search engine optimization and helping businesses achieve better Google rankings and visibility. The brand focuses on technical SEO expertise, Google indexing strategies, and staying current with the latest SEO trends and updates.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Nikita Sharma SEO Expert
-Nikita Sharma is an SEO expert based in India, specializing in search engine optimization and helping businesses achieve better Google rankings and visibility. The brand focuses on technical SEO expertise, Google indexing strategies, and staying current with the latest SEO trends and updates.
-
-## Target Audience
-businesses in India seeking SEO services
-
-## Industry
-Digital Marketing / SEO
-
+## About Business
 ---
 
 # Additional Resources
