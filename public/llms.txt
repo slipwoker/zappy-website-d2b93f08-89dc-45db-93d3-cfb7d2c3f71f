@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Boost your rankings with professional SEO services in Jaipur. Nikita Sharma delivers proven strategies for better visibility and organic traffic growth.
+
+### Services
+https://example.com/services
+From technical audits to Google indexing strategies, discover comprehensive SEO services designed to elevate your business above the competition in Jaipur.
+
+### Case Studies
+https://example.com/case-studies
+See how businesses achieved top Google rankings through data-driven SEO strategies. Real case studies showcasing measurable growth and increased visibility.
+
+### Contact
+https://example.com/contact
+Ready to dominate search results? Contact Nikita Sharma for a personalized SEO consultation and discover how we can transform your online presence in Jaipur.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
